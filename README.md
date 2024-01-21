@@ -16,8 +16,11 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 4. Check the Database by ```python app.py```.
 
 
-## Contributing
+## Contribution
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
+Phan Nhat Quang
+Tran Van Dat
+Phan Van Quy
+
 
 
