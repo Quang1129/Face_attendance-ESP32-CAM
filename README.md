@@ -18,9 +18,9 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 
 ## Contribution
 
-Phan Nhat Quang
-Tran Van Dat
-Phan Van Quy
+1. Phan Nhat Quang
+2. Tran Van Dat
+3. Phan Van Quy
 
 
 
