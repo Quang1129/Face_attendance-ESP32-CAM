@@ -6,7 +6,7 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 
 1. Clone the repository to your local machine. ``` git clone https://github.com/Quang1129/Face_attendance-ESP32-CAM ```
 2. Install the required packages using ```pip install -r requirements.txt```.
-3. Download the dlib models from https://drive.google.com/drive/u/0/folders/1Gelci-6v9ykAsWp7sGZLxcqlBb8aHUVk and place the data folder inside the repo
+3. Download the dlib models from https://drive.google.com/drive/u/1/folders/1arWMIK4s8yG9-TW8Cdi3_75J2AP0VQGX and place the data folder inside the repo
 
 ## Usage
 
